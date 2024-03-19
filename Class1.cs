@@ -8,5 +8,6 @@ namespace aticinconsoleapp
 {
     internal class Class1
     {
+        //ssssssssssssomething
     }
 }
